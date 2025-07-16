@@ -1,0 +1,1 @@
+C:\Rust\ Projects\project\CLI_task_manager\target\debug\CLI_task_manager.exe: C:\Rust\ Projects\project\CLI_task_manager\src\main.rs C:\Rust\ Projects\project\CLI_task_manager\src\storage.rs C:\Rust\ Projects\project\CLI_task_manager\src\task.rs
